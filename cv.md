@@ -26,6 +26,6 @@ But you can watch my progress in work in [Github](https://github.com/PaulRomanov
                     
 * JS
 
-* English: A1. I'm studying A2 right now</p>
+* English: A1. I'm studying A2 right now
 
                 
