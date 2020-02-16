@@ -1,6 +1,7 @@
-+body {
-  margin: 0;
-  min-width: 960px;
+body {
+  max-width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
   font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
   font-size: 16px;
   line-height: 32px;
