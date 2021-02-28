@@ -1,7 +1,7 @@
 body {
   max-width: 1024px;
-    margin-left: auto;
-    margin-right: auto;
+  margin-left: auto;
+  margin-right: auto;
   font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
   font-size: 16px;
   line-height: 32px;
@@ -16,10 +16,13 @@ body {
   max-width: 928px;
   margin: 0 auto;
   padding: 0 16px;
-  color: #800000;
+  color: black;
   font-size: 26px;
 }
-
+.github_img {
+  width: 30px;
+  
+}
 .page-header {
   margin: 0 0 180px;
   padding: 32px 0 32px;
@@ -32,12 +35,24 @@ body {
 }
 
 .page-header a {
-  margin-left: 56px;
   color: #FF0000;
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
 }
+
+.heder-contact1 {
+  padding-left: 5px;
+}
+
+.heder-contact2 {
+  padding-left: 5px;
+}
+
+.heder-contact3{
+  padding-left: 5px;
+}
+
 
 .header-email {
   padding-left: 30px;
@@ -104,13 +119,19 @@ body {
   padding: 0;
 }
 
-.skills-list dt {
+li {
+  list-style-type: none;
+}
+
+.skill-html,
+.skill-css,
+.skill-js,
+.skill-en
+ {
   padding-left: 32px;
   background-repeat: no-repeat;
   background-position: left;
 }
-
-
 
 .skill-html {
   background-image: url("img/icon-html.svg");
@@ -119,12 +140,15 @@ body {
 .skill-css {
   background-image: url("img/icon-css.svg");
 }
+
 .skill-js {
   background-image: url("img/icon-js.png");
 }
+
 .skill-en {
   background-image: url("img/icon-en.png");
 }
+
 .level {
   margin: 4px 0 16px;
   padding: 0;
@@ -177,7 +201,7 @@ body {
 }
 
 .page-footer {
-  padding: 40px 0;
+  padding: 40px 121px;
   background-color: #260c26;
 }
 
@@ -198,7 +222,9 @@ body {
   padding-left: 25px;
   background-image: url("img/icon-phone.svg");
 }
+
 .footer-git {
   padding-left: 25px;
-  background-image: url("img/icon-phone.svg");
+ 
 }
+
