@@ -201,8 +201,9 @@ li {
 }
 
 .page-footer {
-  padding: 40px 121px;
-  background-color: #260c26;
+    padding: 40px 80px;
+    background-color: #260c26;
+    margin: 70px 0 0 0;
 }
 
 .page-footer a {
