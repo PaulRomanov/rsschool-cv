@@ -3,7 +3,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
-  font-size: 16px;
+  font-size: 24px;
   line-height: 32px;
   color: #f2f2f2;
   background-color: #080208;
@@ -211,6 +211,7 @@ li {
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
+  font-size: 16px;
 }
 
 .footer-email {
